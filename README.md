@@ -1,5 +1,4 @@
-# Jigsaw
-Jigsaw Rate Severity of Toxic Comments:Rank relative ratings of toxicity between comments
+# Jigsaw Rate Severity of Toxic Comments:Rank relative ratings of toxicity between comments
 In Jigsaw's fourth Kaggle competition, we return to the Wikipedia Talk page comments featured in our first Kaggle competition. When we ask human judges to look at individual comments, without any context, to decide which ones are toxic and which ones are innocuous, it is rarely an easy task. In addition, each individual may have their own bar for toxicity. We've tried to work around this by aggregating the decisions with a majority vote. But many researchers have rightly pointed out that this discards meaningful information.
 
 😄 🙂 😐 😕 😞
